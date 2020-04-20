@@ -2,8 +2,8 @@
 
 **Cazul 1:**
 
-Nonce1:  3060331852
-Block Hash:  000000000000000000d067217d3423d5e874bce905d645674974f8537f6381e8
+Nonce1: 3060331852 <br>
+Block Hash: 000000000000000000d067217d3423d5e874bce905d645674974f8537f6381e8 <br>
 Primele 5 valori hash:
 - 07ab03f55f52553603baf7f33c3f242f8ea2dcd898e625ed8ec4f0ce70df8818
 - 1e362988f35077d3be5debf4e8b9993d44c553930b13dc58a70ccd84ed583c4f
@@ -13,6 +13,6 @@ Primele 5 valori hash:
 
 **Cazul 2:**
 
-Nonce2 start: 4126767216
-Numar testari: 100 000 000
+Nonce2 start: 4126767216 <br>
+Numar testari: 100 000 000 <br>
 Succes: NU
