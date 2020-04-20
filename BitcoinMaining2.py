@@ -16,6 +16,7 @@ nr_try = 100000000
 # valoarea initiala a nonce-ului determinata random, fiind mai mare ca nonce determinat in primul exemplul (nonce1)
 # Nota: am considerat valoarea maxima admisibila ca fiind: sys.maxsize & 0xFFFFFFFF, pentru a se incadra in 4 bytes
 nonce2 = random.randint(nonce1, (sys.maxsize & 0xFFFFFFFF) - nr_try)
+#nonce2 = 4126767216 #valoarea random folosita in raspuns
 print ("nonce2 = ", nonce2)
 initial_nonce2 = nonce2
 
